@@ -120,7 +120,7 @@ Designed to demonstrate distributed systems thinking, mobile background reliabil
 ### 📱 Android Application
 
 **Active GPS Tracking**  
-![Android](./screenshots/android.jpeg)
+![Android](./screenshots/android.png)
 
 ---
 
